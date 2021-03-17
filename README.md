@@ -4,6 +4,6 @@ This is our group project for Image Captioning. This project combines CNN and RN
 
 COCO dataset is used to train the model. There were some existing technologies similar to this but they were not user friendly and required lot of CLI work for the user. 
 
-Generating captions to an image shows the understanding of the image by computers, which is a fundamental task of intelligence. For a caption model it not only need to find which objects are contained in the image and also need to be able to expressing their relationships in a natural language such as English.
+Generating captions to an image shows the understanding of the image by computers, which is a fundamental task of intelligence. In this caption model it not only needs to find which objects are contained in the image but, also needs to be able to expressing their relationships in a natural language such as English.
 
 More updates later.
